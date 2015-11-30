@@ -1,6 +1,7 @@
 {
     "name": "migueldinis/greeter",
     "description": "a very warm greeter",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     },
