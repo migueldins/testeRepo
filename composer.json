@@ -1,5 +1,5 @@
 {
-    "name": "migueldinis/Greeter",
+    "name": "migueldinis/greeter",
     "description": "a very warm greeter",
     "require": {
         "php": ">=5.3.0"
